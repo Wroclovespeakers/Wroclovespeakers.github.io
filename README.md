@@ -1,1 +1,1 @@
-# Wroclovespeakers.githhub.io
+# Wroclovespeakers.github.io
